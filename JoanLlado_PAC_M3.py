@@ -1,1 +1,1 @@
-print("Hola")
+print("El Llibre de les Accepcions")
